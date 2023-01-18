@@ -12,17 +12,17 @@ Designed to help people save the exercises I solved in c++ and track my progress
   </a>
 </p>
 
+
+
+# Sources for learning and practice 💪
+  + https://github.com/lnishan/awesome-competitive-programming
+  + https://cses.fi/book/book.pdf
+
+![ReallyLowNeilDegrasseTysonGIF (2)](https://user-images.githubusercontent.com/91504420/213191844-6e278943-4a96-408a-b25d-4935186aacd4.gif)
+
+
 <!--🪳ROACH&🕷️SPIDER--> 
 <p align="left">
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
 
-
-# Sources for learning and practice 💪
-- https://github.com/lnishan/awesome-competitive-programming
-- https://cses.fi/book/book.pdf
-
-![image](https://user-images.githubusercontent.com/91504420/208230911-b47712ef-02c6-4c84-a884-d67bc22bee6a.png)
-
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 
